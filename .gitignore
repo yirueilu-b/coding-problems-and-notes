@@ -1,6 +1,9 @@
 .idea
 venv
 
-*/.ipynb_checkpoints
+*.ipynb_checkpoints
+*-checkpoints.ipynb
 *.pyc
 *.jpg
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/
